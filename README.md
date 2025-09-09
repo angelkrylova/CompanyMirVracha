@@ -1,1 +1,1 @@
-#   [Тестовое задание email-рассылки](https://angelkrylova.github.io/CompanyMirVracha/) адаптирован под мобильную версию
+#   [Email-рассылкa](https://angelkrylova.github.io/CompanyMirVracha/) адаптирован под мобильную версию
